@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student from [Imperial College London](https://www.imperial.ac.uk/), and my major is MSc in Statistics (Data Science and Machine Learning).
+I am curenly a student from [IMPERIAL College London](https://www.imperial.ac.uk/), and my major is MSc in Statistics (Data Science and Machine Learning).
 
 My favourite sport is football and my favourite teams are:
 - Man United and
